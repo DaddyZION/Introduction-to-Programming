@@ -18,8 +18,12 @@ Key Concepts Demonstrated:
 
 
 
+
 print("=== UNDERSTANDING VARIABLES ===")
 print()
+
+
+
 
 # INTEGER VARIABLES
 # Integers are whole numbers (positive, negative, or zero)
@@ -114,6 +118,12 @@ print()
 # You can assign the same value to multiple variables
 x = y = z = 0               # All three variables get the value 0
 print("x =", x, "y =", y, "z =", z)
+
+
+
+
+
+
 
 # Or assign multiple values at once
 name, age, grade = "Bob", 22, "A"    # Assigns three values to three variables
